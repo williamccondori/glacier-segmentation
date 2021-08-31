@@ -1,0 +1,18 @@
+# Virtual environments
+venv
+venv/
+
+# Python virtual environments
+.venv
+.venv/
+
+# Pycharm.
+.idea
+.idea/
+
+# VS Code.
+.vscode
+.vscode/
+
+# Packages.
+*.whl
